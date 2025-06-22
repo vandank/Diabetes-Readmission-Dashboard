@@ -7,7 +7,11 @@
 This interactive Tableau dashboard analyzes hospital readmission patterns for diabetic patients using the Diabetes 130-US Hospitals dataset. It was built as part of the Data Analytics Professional Certificate by DeepLearning.AI.
 
 ## 🧠 Key Insights
-- Visualizes readmission trends across **demographics**, **medication types**, and **medical specialties**
+- Analyzes **100k+ hospital records** from the Diabetes 130-US Hospitals dataset.
+- Visualizes **readmission trends** by:
+  - Demographics (age, race)
+  - Medical specialties
+  - Medication status
 - Includes **interactive filters** for race and medical specialty
 - Designed to assist hospital administrators in identifying risk factors for 30-day readmissions
 
