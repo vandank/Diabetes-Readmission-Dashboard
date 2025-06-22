@@ -23,7 +23,6 @@ This interactive Tableau dashboard analyzes hospital readmission patterns for di
 ## 📷 Screenshots
 
 ![Screenshot 1](images/dashboard-overview.png)
-*(Upload a screenshot of your dashboard here)*
 
 ## 👤 Author
 **Vandan Khambhata**  
